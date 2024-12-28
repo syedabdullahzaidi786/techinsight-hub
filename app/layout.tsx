@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   description: "Your gateway to AI, Technology, and Innovation",
   icons: {
     icon: "/icon.png", // Updated to use a .ico format for better compatibility
-    apple: "/apple-touch-icon.png",
+    apple: "/icon.png",
   },
   manifest: "/site.webmanifest",
 };
